@@ -6,12 +6,16 @@ iterative
 selection
 looping
 
-
+for loop
+while loop
 
 
 
 
 learning
 
+done my changes
+
 
 done
+
