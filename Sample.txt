@@ -6,7 +6,8 @@ iterative
 selection
 looping
 
-
+for loop
+while loop
 
 
 
