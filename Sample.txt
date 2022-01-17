@@ -5,3 +5,10 @@ welcome to github.
 iterative
 selection
 looping
+
+
+
+
+
+
+learning
